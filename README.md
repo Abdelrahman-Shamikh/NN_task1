@@ -185,12 +185,11 @@ Testing is performed manually through the GUI by training classifiers and verify
 8. **Review:** Once your PR is reviewed and approved, it will be merged into the main branch.
 
 </details>
+
 ## Acknowledgments
 
 - **Original Dataset:** `birds.csv`  
 - **Inspiration:** Tutorials on Perceptron and Adaline algorithms  
 - **Libraries Used:** `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `tkinter`  
 
-<div align="right">
-[![][back-to-top]](#top)
-</div>
+[back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
