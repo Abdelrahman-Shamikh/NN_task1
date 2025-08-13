@@ -3,7 +3,7 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src="readmeai/assets/logos/purple.svg" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Neural_Network_icon.svg/256px-Neural_Network_icon.svg.png" width="30%" alt="Bird Classification AI Logo"/>
 
 # NN-TASK-1
 
