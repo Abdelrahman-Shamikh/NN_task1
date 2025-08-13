@@ -193,7 +193,5 @@ Testing is performed manually through the GUI by training classifiers and verify
 - **Libraries Used:** `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `tkinter`  
 
 <div align="right">
-[![][back-to-top]](#top)
+<img src="https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square">
 </div>
-
-[back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
