@@ -92,6 +92,7 @@ It provides a **Tkinter GUI** for selecting features, classes, learning rates, e
 		</blockquote>
 	</details>
 </details>
+				
 ## Getting Started
 
 ### Prerequisites
