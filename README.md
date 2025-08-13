@@ -62,7 +62,7 @@ It provides a **Tkinter GUI** for selecting features, classes, learning rates, e
 └── NN-Task-1/
     ├── birds.csv
     └── main.py
-
+```
 ### Project Index
 
 <details open>
