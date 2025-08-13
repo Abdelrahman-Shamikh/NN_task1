@@ -3,7 +3,7 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Neural_Network_icon.svg/256px-Neural_Network_icon.svg.png" width="30%" alt="Bird Classification AI Logo"/>
+<img src="https://tse2.mm.bing.net/th/id/OIP.WBLTb5DJtju8-PQPtGLyXwHaD6?pid=Api&P=0&h=220" width="30%" alt="Bird Classification AI Logo"/>
 
 # NN-TASK-1
 
